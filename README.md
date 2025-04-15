@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💬 Chatverse (Web App)
 
-## Getting Started
+**GitHub Repository**: [Chatverse](https://github.com/Farid-20/chatapp)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📋 Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Chatverse** is a powerful real-time communication platform designed for seamless collaboration within organizations or teams. Built using **Next.js**, **Node.js**, and **MongoDB**, the app supports organized messaging through categories and channels, customizable roles, and bot integrations.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The platform aims to provide structured, role-based, and extensible communication — ideal for internal discussions, project teams, and developer collaboration.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+- 💬 **Real-Time Messaging**: Fast, live messaging using **Socket.IO**
+- 🗂️ **Categories & Channels**: Organize communication by team, topic, or department
+- 👥 **Role-Based Permissions**: Define user roles to manage access and features
+- 🤖 **Bot-Ready System**: Extend Chatverse with custom or community-built bots
+- 🧭 **Responsive UI**: Clean and intuitive interface for desktop and mobile
+- 📂 **File/Image Uploads** (Planned)
+- 🎥 **Audio/Video/Screen Sharing** (Planned)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🧩 Tech Stack
 
-## Deploy on Vercel
+| Layer        | Technology                          |
+|--------------|--------------------------------------|
+| Frontend     | Next.js, Tailwind CSS, Zustand       |
+| Backend      | Node.js, Express.js                  |
+| Real-Time    | Socket.IO                            |
+| Database     | MongoDB, Prisma                      |
+| State Mgmt   | Zustand, Redux Toolkit               |
+| Others       | Mailtrap, React Icons, LiveKit (planned) |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📸 Screenshots
+
+_(Add screenshots here if available, e.g., using GitHub issues or raw image URLs)_
+
+---
+
+## 📈 Roadmap
+
+- [x] Real-time chat
+- [x] Category and channel management
+- [x] Role-based permissions
+- [ ] Audio/video/screen sharing
+- [ ] File and image uploads
+- [ ] Bot integration
+- [ ] Admin dashboard
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo  
+2. Create your branch: `git checkout -b feature/your-feature`  
+3. Commit your changes: `git commit -m 'Add feature'`  
+4. Push to the branch: `git push origin feature/your-feature`  
+5. Open a Pull Request  
+
+---
+
+
+## 💌 Contact
+
+**Developer:** Farid  
+🔗 [GitHub Profile](https://github.com/Farid-20)  
+📧 faridmandli20@gmail.com 
